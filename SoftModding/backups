@@ -1,0 +1,11 @@
+Modding an xbox should, in theory, allow one to backup games and play off of the backed up copies whether they are stored internally or reburnt to a disc.
+HOWEVER there are numerous limitations in place to prevent potential piracy.
+
+Filesystem architecture of the device prevents files larger than 4gb from existing/running aside from those loaded via the disc drive.
+The stock internal HDD is only going to be 10gb and it will be partitioned out.
+USB storage cannot be larger than 4GB without BIOS modification, and even then it is limited to USB 1.1 speeds.
+Most xbox game image files which i have now seen are between 5.5 and 7GB in size, which would make FTPing only a single game on or off of the stock HDD possible.
+The most common consumer use DVDs on the market are only 4.7GB, 8.5gb DO EXIST but they seem to be a bit of a rarity.
+
+I have larger IDE hard drives which I can use, but the drives are meant to be motherboard locked to the consoles and compatability of whatever drives I have sitting around MAY be an issue.
+Experimentation to follow.
