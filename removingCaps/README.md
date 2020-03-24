@@ -9,3 +9,6 @@ Need a T10 bit to get to the motherboard.
 could desolder.... or just wiggle and snap the cap off.
 Clock cap removed now wiggle removed from the pre-modded xbox.
 Special Halo Edition with clock cap removed.
+Both retested and working.
+
+Future Softmod Xbox has its clock capacitor out, tested and working but not resealed because I want to add a larger Hard Drive if possible.
