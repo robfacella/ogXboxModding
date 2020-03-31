@@ -1,0 +1,20 @@
+Relatively easy to use toolkit.
+
+Allowed me to Null out my HDD EEPROM
+TEAMASSEMBLY as default pass
+
+---
+
+Replaced Stock hard drive with an 80GB one using chimp.
+Made sure things worked since I was hotswapping while powering the new drive from an entirely different unit's power supply, Sealed up the console and we are sitting pretty.
+
+---
+
+FTP proved to be interesting.
+turns out the console WILL NOT POST if there is no display connected; That is to say, it won't actually load the dashboard.
+I couldn't find my crossover cable and there was no way I was carrying my CRT television downstairs just to get the xbox hooked up next to the router.
+So I dug up the cheap router I had purchased for my college dorm and by some miracle the LAN ports on it actually worked.  So long as I am willing to knock myself offline, I can run a few ethernet cables and FTP without trouble.
+
+----
+
+Think I'm going to try to get a Playstation emulator running on it tomorrow.
